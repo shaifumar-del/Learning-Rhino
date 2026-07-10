@@ -28,3 +28,17 @@ Introduction to Rhino 3D
 
 ## Notes
 This lesson covered the fundamentals of navigating Rhino and introduced the basic tools needed before starting 3D modelling.
+
+Rhino-Learning/
+│
+├── README.md
+├── Day-01/
+│   ├── Day01.3dm
+│   └── screenshot.png
+│
+├── Day-02/
+│   ├── Day02.3dm
+│   └── screenshot.png
+│
+└── Personal-Projects/
+    └── Chair.3dm
