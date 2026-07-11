@@ -1,9 +1,10 @@
 # Day 01 - Introduction to Rhino
-video turotial: https://www.youtube.com/watch?v=lbWv1LVHdMg&list=PLrRVLDZI7hw5hTiBRraPLOwawzbkQ6GPZ
+
+**Tutorial:** [Getting Started with Rhino - Part 1](https://www.youtube.com/watch?v=lbWv1LVHdMg&list=PLrRVLDZI7hw5hTiBRraPLOwawzbkQ6GPZ)
 
 ## Topic
-Introduction to Rhino 3D
-
+Introduction to Rhino 3D 
+ 
 ## What I Learned
 - Navigated the Rhino interface.
 - Used the mouse to pan, zoom, and rotate the viewport.
