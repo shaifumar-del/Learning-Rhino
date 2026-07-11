@@ -13,8 +13,7 @@
 This lesson introduced more modelling controls and tools for creating and modifying 3D objects in Rhino.
 
 ## Screenshot
-
 ![Day 02 Rhino Model]
 
 <img width="699" height="322" alt="Screenshot 2026-07-11 154123" src="https://github.com/user-attachments/assets/fcb62bf3-6e26-4107-a762-30905d572aa4" />
-(Screenshot 2026-07-11 154123)
+
