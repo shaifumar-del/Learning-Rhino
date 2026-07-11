@@ -1,4 +1,5 @@
 # Day 01 - Introduction to Rhino
+video turotial: https://www.youtube.com/watch?v=lbWv1LVHdMg&list=PLrRVLDZI7hw5hTiBRraPLOwawzbkQ6GPZ
 
 ## Topic
 Introduction to Rhino 3D
