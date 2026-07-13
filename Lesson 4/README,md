@@ -1,10 +1,10 @@
-# Day 04 - Modelling a House
+# House Modelling Practice
 
 ## What I Learned
 - Modelled a house in Rhino.
-- Used ChamferEdge to modify sharp edges.
-- Used WireCut to cut geometry.
-- Used PushPull to modify solid objects.
+- Used ChamferEdge.
+- Used WireCut.
+- Used PushPull to modify geometry.
 
 ## Notes
-This lesson was challenging, but I enjoyed learning how the different modelling tools came together to create a house. It was tough, but fun and rewarding.
+This modelling exercise was challenging, but I enjoyed the process. It was tough, but learning how the different tools came together to create a house was fun and rewarding.
